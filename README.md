@@ -1,8 +1,4 @@
 # Reimann-sum
-Here's an overhyped description for your Riemann Sum Visualization Project:
-
----
-
 **Project Title:** *Riemann Sum Visualizer: Revolutionizing Integral Approximation with Stunning Graphical Precision!*
 
 Prepare to embark on a journey into the cutting-edge world of numerical integration! This **Riemann Sum Visualizer** is not just any tool—it is the ultimate solution for understanding the intricate beauty of integral approximations. Designed for math enthusiasts, students, and professionals alike, this state-of-the-art project will blow your mind with its clean, sharp, and highly interactive visualizations of the **Left**, **Right**, and **Midpoint Riemann Sums**.
